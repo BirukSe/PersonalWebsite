@@ -1,0 +1,23 @@
+
+.p{
+    color: blue;
+    background-color: rgb(50, 30, 20);
+    max-width: 30 px;
+    margin-right: 0 px;
+    font-family: 'Roboto', sans-serif;
+}
+.pre{
+    color: blue;
+    background-color: rgb(50, 30, 20);
+    max-width: 30 px;
+    margin-right: 0 px;
+    font-family: 'Roboto', sans-serif;
+
+}
+body{
+    
+ 
+    max-width: 30 px;
+    margin-right: 0 px;
+    font-family: 'Roboto', sans-serif;
+}
